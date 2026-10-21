@@ -1,0 +1,6 @@
+{
+  "name": "TrypanVision - Automated Trypan Blue Cell Counter",
+  "description": "Publication-grade automated cell counting and viability analysis for cells stained with trypan blue with hemocytometer calculations, computer vision gating, and seeding planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
